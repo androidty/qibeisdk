@@ -38,24 +38,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.pingxx</groupId>
-      <artifactId>pingpp-android</artifactId>
-      <version>2.2.3</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.tencent.mm.opensdk</groupId>
-      <artifactId>wechat-sdk-android-without-mta</artifactId>
-      <version>5.4.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.pingxx</groupId>
-      <artifactId>pingpp-android-alipay</artifactId>
-      <version>2.2.3</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.github.LuckSiege.PictureSelector</groupId>
       <artifactId>picture_library</artifactId>
       <version>v2.2.4</version>
